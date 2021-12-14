@@ -19,37 +19,43 @@
         android:id="@+id/checkBox1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="기침" />
+        android:text="기침"
+        android:buttonTint="#9A7480"/>
 
     <CheckBox
         android:id="@+id/checkBox2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="콧물" />
+        android:text="콧물"
+        android:buttonTint="#9A7480"/>
 
     <CheckBox
         android:id="@+id/checkBox3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="근육통" />
+        android:text="근육통"
+        android:buttonTint="#9A7480"/>
 
     <CheckBox
         android:id="@+id/checkBox4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="인후통" />
+        android:text="인후통"
+        android:buttonTint="#9A7480"/>
 
     <CheckBox
         android:id="@+id/checkBox5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="호흡곤란" />
+        android:text="호흡곤란"
+        android:buttonTint="#9A7480"/>
 
     <CheckBox
         android:id="@+id/checkBox6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="열(37.5도 이상)"/>
+        android:text="열(37.5도 이상)"
+        android:buttonTint="#9A7480"/>
 
     <Button
         android:id="@+id/button1"
